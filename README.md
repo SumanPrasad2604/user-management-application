@@ -1,0 +1,2 @@
+# user-management-application
+Description : User Management describes the ability for administrators to manage user access to various IT resources like systems, devices, applications, and storage etc. user management enables admin to control user access and on board and off board users to and from IT resources. This application is made only using one technologies i.e., Shell Scripting. Responsibilities:  Perform certain operations  Add users, Search for users, change password, Delete User, show all users, user count, and exit.
